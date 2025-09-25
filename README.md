@@ -1,17 +1,34 @@
 
 ### Olá! 👋 Me chamo Lucas Santos.
-
 Sou um educador e desenvolvedor apaixonado por tecnologia, com foco em **programação web** e **desenvolvimento de software**.
+
+---
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/engineer-lucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=engineer-lucas&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineer-lucas&layout=compact&langs_count=7&theme=nord"/>
+</a>
+</div>
+
+---
+### 💻 Minhas Habilidades
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Lucas-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+  <img align="center" alt="Lucas-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   
+</div>
+
+---
 ### 🌐 Conecte-se comigo
 
 <div align="center">
