@@ -8,12 +8,12 @@ Sou um educador e desenvolvedor apaixonado por tecnologia, com foco em **program
 
 <div align="center">
    <a href="https://github.com/engineer-lucas">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=engineer-lucas&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineer-lucas&layout=compact&langs_count=7&theme=nord" alt="Principais Linguagens do GitHub"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=engineer-lucas&show_icons=true&theme=nord&include_all_commits=true&count_private=true&cache_bust=123" alt="Estatísticas do GitHub"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineer-lucas&layout=compact&langs_count=7&theme=nord&cache_bust=123" alt="Principais Linguagens do GitHub"/>
    </a>
 </div>
-
 ---
+
 ### 💻 Minhas Habilidades
 
 <p align="center">
