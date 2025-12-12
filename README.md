@@ -12,6 +12,7 @@ Sou um educador e desenvolvedor apaixonado por tecnologia, com foco em **program
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineer-lucas&layout=compact&langs_count=7&theme=nord&cache_bust=123" alt="Principais Linguagens do GitHub"/>
    </a>
 </div>
+
 ---
 
 ### 💻 Minhas Habilidades
