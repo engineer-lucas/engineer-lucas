@@ -12,6 +12,10 @@ Sou um educador e desenvolvedor apaixonado por tecnologia, com foco em **program
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineer-lucas&layout=compact&langs_count=7&theme=nord&v=6" alt="Principais Linguagens do GitHub"/>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engineer-lucas&theme=nord&bg_color=00000000&hide_border=true" width="100%">
+</div>
+
 ---
 
 ### 💻 Minhas Habilidades
@@ -53,9 +57,7 @@ Sou um educador e desenvolvedor apaixonado por tecnologia, com foco em **program
 
 <div align="center">
   <p>
-    <img alt="UFPA" height="90" src="https://upload.wikimedia.org/wikipedia/pt/d/d2/Logo_UFPA.png">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="SENAI" height="45" src="https://raw.githubusercontent.com/ajunior027/logos/main/senai.png">
+    <img alt="ufpa-logo Pi" height="60" src="https://raw.githubusercontent.com/engineer-lucas/assets/main/UFPA_logo.png">
   </p>
   <p>
     <strong>ENGENHEIRO DE COMPUTAÇÃO</strong><br>
